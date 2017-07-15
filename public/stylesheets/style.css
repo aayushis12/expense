@@ -1,0 +1,27 @@
+.check{
+	padding:2%;
+	border:2px solid grey;
+	width:40%;
+	text-align:center;
+	margin:0 auto;
+	max-height:40vh;
+	overflow-y:scroll;
+}
+
+.input input{
+	border-radius:6%;
+	
+}
+.post{
+	float: left;
+    width: 50%;
+    background-color: lavenderblush;
+}
+.edit-delete-btn {
+	float: right;
+    width: 50%;
+}
+
+.edit-delete-btn a{
+	margin-right:3%;
+}
